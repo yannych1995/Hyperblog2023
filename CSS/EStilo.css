@@ -6,15 +6,29 @@ body{
     padding: 0px;
     margin: 0px;
 }
+#cabecera{
+    background:brown;
+    box-shadow:5px 108px 61px -22px rgba(0,0,0,0.75);
+    font-weight: bold;
+    margin:0px;
+    padding: 0px;
+    color: whitesmoke;
+    font-size: 20px;
+}
+#container #tagline{
+    padding: 0px;
+    font-weight:normal ;
+    font-size: 0.8em;
 
+}
 #container{
-    width: 70%;
-    padding: 1em;
+    width: 85%;
+    padding: 2em;
     text-align: left;
-    border: 1px solid red;
+    border: 3px solid red;
     margin: 0 auto;
 }
 
 #container h1{
-    font-size: 25px;
+    font-size: 30px;
 }
