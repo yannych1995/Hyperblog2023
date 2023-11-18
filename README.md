@@ -14,3 +14,4 @@ Patterns read from $GIT_DIR/info/exclude.
 Creado por el Lulito valeroso 
 
 Incluye ejemplos ***
+DIsponible  para todas las edades 
